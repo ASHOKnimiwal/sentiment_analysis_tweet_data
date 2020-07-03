@@ -3,4 +3,4 @@ Making use of the "TextBlob" module to do some sentiment analysis on the tweets 
 
 Here is a sample output upon the execution of 'sentiment_analysis_tweet_data.py' :
 
-<img src = "">
+<img src = "sentiment_analysis.png">
